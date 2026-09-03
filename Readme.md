@@ -77,7 +77,7 @@ Electrical Engineering graduate with hands-on experience across IC design, embed
 
 <div align="center">
 
-![PaldiBlind](https://img.shields.io/badge/👨‍🦯_PaldiBlind_—_Assistive_Navigation_Device-26a69a?style=for-the-badge)
+### 👨‍🦯 PaldiBlind — Assistive Navigation Device
 
 </div>
 
@@ -108,7 +108,7 @@ Electrical Engineering graduate with hands-on experience across IC design, embed
 
 <div align="center">
 
-![Power System Analysis](https://img.shields.io/badge/⚡_Power_System_Analysis_%26_Protection_Coordination-c62828?style=for-the-badge)
+### ⚡ Power System Analysis & Protection Coordination
 
 </div>
 
@@ -142,7 +142,7 @@ Complete modeling and protection design of radial distribution networks using ET
 
 <div align="center">
 
-![ESP32 Dev Board](https://img.shields.io/badge/🎛️_Custom_ESP32--WROOM--32_Development_Board-ef6c00?style=for-the-badge)
+### 🎛️ Custom ESP32-WROOM-32 Development Board
 
 </div>
 
@@ -173,7 +173,7 @@ Hardware design of a modular microcontroller development platform from schematic
 
 <div align="center">
 
-![SRAM PUF](https://img.shields.io/badge/🔒_SRAM_PUF_Array_—_Transistor--Level_Design-5c6bc0?style=for-the-badge)
+### 🔒 SRAM PUF Array — Transistor-Level Design
 
 </div>
 
@@ -204,7 +204,7 @@ Transistor-level IC design and physical layout verification of a 4×4 SRAM-based
 
 <div align="center">
 
-![Melemco](https://img.shields.io/badge/🏢_Melemco_—_Power_Distribution_%26_Building_Automation-c62828?style=for-the-badge)
+### 🏢 Melemco — Power Distribution & Building Automation
 
 </div>
 
