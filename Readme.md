@@ -60,6 +60,45 @@ Practical electrical engineering training involving low-voltage power distributi
 
 ---
 
+### Power System Analysis & Protection Coordination — ETAP & PowerWorld Simulator
+
+Modeled and analyzed power distribution networks using industry-standard simulation tools, covering load-flow, fault analysis, and protection design.
+
+<p align="center">
+  <img src="./assets/powerworld_network.png" width="360"/>
+  &nbsp;&nbsp;
+  <img src="./assets/etap_network.png" width="360"/>
+</p>
+
+<p align="center"><sub>PowerWorld load-flow and voltage/MVA analysis (left) · ETAP radial distribution network with relay and fuse protection (right)</sub></p>
+
+* Modeled a radial distribution network in ETAP, analyzing voltage profiles, power losses, and fault-current levels under normal and fault conditions.
+* Performed load-flow, short-circuit, and transformer-loading studies in PowerWorld Simulator, assessing voltage stability and network losses.
+* Applied shunt capacitors for reactive power compensation and evaluated three-phase fault scenarios to support reliable system design.
+* Calculated CT ratios and relay settings, and developed primary/backup protection schemes using circuit breakers, fuses, and reclosers.
+
+<img src="https://img.shields.io/badge/ETAP-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/PowerWorld%20Simulator-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Load%20Flow%20Analysis-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Short--Circuit%20Analysis-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Voltage%20Stability-c62828?style=flat-square"/>
+
+---
+
+### Protection Coordination — TCC Curve Analysis
+
+Developed a coordinated overcurrent protection scheme using time-current characteristic (TCC) curves for a radial network with fuses and a relay.
+
+<p align="center">
+  <img src="./assets/tcc_coordination.png" width="480"/>
+</p>
+
+<p align="center"><sub>Normalized TCC coordination plot for a 3-phase fault, showing fuse and relay operating margins</sub></p>
+
+* Built a TCC coordination study for a multi-fuse and relay protection scheme, verifying selectivity between upstream and downstream devices.
+* Calculated fault currents and operating times at each protection point to confirm correct coordination margins.
+* Interpreted fuse melting/clearing curves and relay time-dial settings to ensure fast, selective fault isolation.
+
+<img src="https://img.shields.io/badge/Protection%20Coordination-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/TCC%20Curves-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Fuse%20%26%20Relay%20Sizing-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Fault%20Current%20Analysis-c62828?style=flat-square"/>
+
+---
+
 ### SRAM PUF Array Design
 
 Designed and verified a 4×4 SRAM-based Physical Unclonable Function, from system architecture down to transistor-level layout.
@@ -172,7 +211,9 @@ Designed and simulated a digital microcomputer architecture integrating processi
 **Power Systems**
 <br>
 <img src="https://img.shields.io/badge/ETAP-c62828?style=flat-square"/>
-<img src="https://img.shields.io/badge/PowerWorld-c62828?style=flat-square"/>
+<img src="https://img.shields.io/badge/PowerWorld%20Simulator-c62828?style=flat-square"/>
+<img src="https://img.shields.io/badge/Load%20Flow%20Analysis-c62828?style=flat-square"/>
+<img src="https://img.shields.io/badge/Protection%20Coordination-c62828?style=flat-square"/>
 <img src="https://img.shields.io/badge/LV%20Distribution-c62828?style=flat-square"/>
 <img src="https://img.shields.io/badge/Cable%20%26%20Breaker%20Sizing-c62828?style=flat-square"/>
 
