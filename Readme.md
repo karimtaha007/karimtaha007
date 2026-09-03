@@ -20,10 +20,10 @@ Electrical Engineering graduate with hands-on experience across IC design, embed
 
 ![Hardware & IC Design](https://img.shields.io/badge/⚡_Hardware_%26_IC_Design-5c6bc0?style=for-the-badge)
 
-**Synopsys Custom Compiler**
-**Electric VLSI**
-**LTspice**
-**OrCAD PSpice**
+**Synopsys Custom Compiler**<br/>
+**Electric VLSI**<br/>
+**LTspice**<br/>
+**OrCAD PSpice**<br/>
 **CMOS / Analog IC Design**
 
 </td>
@@ -31,10 +31,11 @@ Electrical Engineering graduate with hands-on experience across IC design, embed
 
 ![Embedded Systems & PCB](https://img.shields.io/badge/🔌_Embedded_Systems_%26_PCB-26a69a?style=for-the-badge)
 
-**ESP32-S3**
-**C / C++**
-**KiCad**
-**EasyEDA**
+**ESP32-S3**<br/>
+**C / C++**<br/>
+**Arduino IDE**<br/>
+**KiCad**<br/>
+**EasyEDA**<br/>
 **Python**
 
 </td>
@@ -44,22 +45,27 @@ Electrical Engineering graduate with hands-on experience across IC design, embed
 
 ![Power & Grid Automation](https://img.shields.io/badge/🏭_Power_%26_Grid_Automation-c62828?style=for-the-badge)
 
-**ETAP**
-**PowerWorld Simulator**
-**Load Flow Analysis**
-**Protection Coordination**
-**LV Distribution**
+**ETAP**<br/>
+**PowerWorld Simulator**<br/>
+**Load Flow Analysis**<br/>
+**Protection Coordination**<br/>
+**LV Distribution**<br/>
+**KNX**<br/>
+**PLC (Siemens LOGO! / Delta)**<br/>
+**TIA Portal**
 
 </td>
 <td width="50%" valign="top" align="center">
 
 ![Digital Systems & Software](https://img.shields.io/badge/💻_Digital_Systems_%26_Software-3949ab?style=for-the-badge)
 
-**Verilog HDL**
-**KNX / ETS6**
-**MATLAB / Simulink**
-**AutoCAD**
-**Active-HDL**
+**Verilog HDL**<br/>
+**Active-HDL**<br/>
+**Quartus Prime**<br/>
+**ETS6**<br/>
+**MATLAB / Simulink**<br/>
+**AutoCAD**<br/>
+**Proteus**
 
 </td>
 </tr>
@@ -86,8 +92,8 @@ Electrical Engineering graduate with hands-on experience across IC design, embed
 
 <p align="center">
 
-**Architected and fabricated a custom multi-layer PCB integrating an ESP32-S3 microcontroller, GNSS receiver, and UWB transceiver modules**
-**Programmed embedded firmware in C/C++ handling real-time sensor fusion, positioning logic, and feedback**
+**Architected and fabricated a custom multi-layer PCB integrating an ESP32-S3 microcontroller, GNSS receiver, and UWB transceiver modules**<br/>
+**Programmed embedded firmware in C/C++ handling real-time sensor fusion, positioning logic, and feedback**<br/>
 **Engineered a 3D-printed ergonomic enclosure for real-world daily usage**
 
 </p>
@@ -119,9 +125,9 @@ Complete modeling and protection design of radial distribution networks using ET
 
 <p align="center">
 
-**Conducted load-flow, short-circuit, and transformer thermal loading studies in PowerWorld; integrated shunt capacitors for reactive power compensation**
-**Modeled radial distribution layouts in ETAP, assessing fault currents and voltage drop during short-circuit events**
-**Calculated CT ratios and protection settings; built primary/backup coordination schemes with breakers, reclosers, and fuses**
+**Conducted load-flow, short-circuit, and transformer thermal loading studies in PowerWorld; integrated shunt capacitors for reactive power compensation**<br/>
+**Modeled radial distribution layouts in ETAP, assessing fault currents and voltage drop during short-circuit events**<br/>
+**Calculated CT ratios and protection settings; built primary/backup coordination schemes with breakers, reclosers, and fuses**<br/>
 **Constructed TCC curves to verify fault-clearing selectivity and protection margins**
 
 </p>
@@ -151,8 +157,8 @@ Hardware design of a modular microcontroller development platform from schematic
 
 <p align="center">
 
-**Designed power delivery network (PDN), USB-C connectivity, and USB-to-UART bridging**
-**Built footprint libraries from datasheets and optimized trace widths and thermal dissipation**
+**Designed power delivery network (PDN), USB-C connectivity, and USB-to-UART bridging**<br/>
+**Built footprint libraries from datasheets and optimized trace widths and thermal dissipation**<br/>
 **Completed manual routing, ground plane fills, DRC checks, and manufacturing verification**
 
 </p>
@@ -182,8 +188,8 @@ Transistor-level IC design and physical layout verification of a 4×4 SRAM-based
 
 <p align="center">
 
-**Designed core memory cell arrays, address decoding logic, and differential comparator readout stages**
-**Executed layout with strict transistor symmetry to leverage process mismatch for secure key generation**
+**Designed core memory cell arrays, address decoding logic, and differential comparator readout stages**<br/>
+**Executed layout with strict transistor symmetry to leverage process mismatch for secure key generation**<br/>
 **Validated cell stability via SPICE simulation; achieved zero DRC and LVS errors**
 
 </p>
@@ -213,8 +219,8 @@ Practical engineering experience in low-voltage panel assembly, breaker sizing, 
 
 <p align="center">
 
-**Calculated branch/main power loads, voltage drops, and cable/busbar requirements**
-**Built and wired a 400 A three-phase distribution panel per standard single-line diagrams**
+**Calculated branch/main power loads, voltage drops, and cable/busbar requirements**<br/>
+**Built and wired a 400 A three-phase distribution panel per standard single-line diagrams**<br/>
 **Configured lighting and automation control using KNX devices and ETS6**
 
 </p>
@@ -267,10 +273,10 @@ Designed a custom microcomputer architecture integrating ALU, register files, bu
 
 <p align="center">
 
-**Analog & Mixed-Signal IC Design / VLSI**
-**Embedded Hardware Engineering & Firmware Development**
-**PCB Design & System Integration**
-**Electrical Power Systems & Low-Voltage Distribution**
+**Analog & Mixed-Signal IC Design / VLSI**<br/>
+**Embedded Hardware Engineering & Firmware Development**<br/>
+**PCB Design & System Integration**<br/>
+**Electrical Power Systems & Low-Voltage Distribution**<br/>
 **Building Automation & KNX Systems**
 
 </p>
