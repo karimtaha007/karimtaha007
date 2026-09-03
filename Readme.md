@@ -8,7 +8,7 @@
 
 ### Electrical & Electronics Engineer
 
-**IC / VLSI Designs · Embedded Systems · PCB Design · Power Systems · Building Automation**
+**IC / VLSI Design · Embedded Systems · PCB Design · Power Systems · Building Automation**
 
 📍 Ramallah, Palestine &nbsp;•&nbsp;
 📧 [karimbtaha6@gmail.com](mailto:karimbtaha6@gmail.com) &nbsp;•&nbsp;
