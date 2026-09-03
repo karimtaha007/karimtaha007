@@ -1,236 +1,245 @@
-<p align="center">
-  <img src="./assets/hero_icon.svg" width="360"/>
-</p>
+<div align="center">
 
-# 👋 Hi there! I'm Kareem Taha 👋
+  <img src="./assets/hero_icon.svg" width="280" alt="Kareem Taha Hero Banner"/>
 
-### Automation · Power Distribution · IC Design ⚡🇵🇸
+  # 👋 Hi, I'm Kareem Taha
+  ### **Automation · Power Distribution · IC Design** ⚡ 🇵🇸
 
-📧 [karimbtaha6@gmail.com](mailto:karimbtaha6@gmail.com) · 📍 Ramallah, Palestine · [GitHub](https://github.com/karimtaha007)
+  [![Email](https://img.shields.io/badge/Email-karimbtaha6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karimbtaha6@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Taha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-taha-553362356/)
+  [![GitHub](https://img.shields.io/badge/GitHub-karimtaha007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimtaha007)
+  [![Location](https://img.shields.io/badge/Location-Ramallah%2C%20Palestine-007A3D?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<p>
-  <img src="https://img.shields.io/badge/VLSI%20%2F%20IC%20Design-5c6bc0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-26a69a?style=flat-square" />
-  <img src="https://img.shields.io/badge/PCB%20Design-ef6c00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power%20Systems-c62828?style=flat-square" />
-  <img src="https://img.shields.io/badge/KNX%20%2F%20Building%20Automation-6d4c41?style=flat-square" />
-  <img src="https://img.shields.io/badge/PLC%20%2F%20Industrial%20Control-546e7a?style=flat-square" />
-</p>
+  <br/>
 
-Electrical Engineering graduate with hands-on experience across multiple levels of electrical hardware design — from transistor-level IC design and embedded systems to PCB development, low-voltage power distribution, and building automation.
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <b>Electrical Engineering graduate</b> with hands-on experience spanning multiple tiers of electrical hardware design — from transistor-level IC/VLSI design and embedded firmware to PCB development, low-voltage power distribution, and building automation systems.
+      </td>
+    </tr>
+  </table>
 
----
-
-## Projects
-
-### PaldiBlind — Assistive Navigation Device
-
-Graduation project focused on developing an assistive navigation device for visually impaired users using GNSS for outdoor positioning and UWB for indoor positioning.
-
-<p align="center">
-  <img src="./assets/paldiblind_pcb.jpg" width="360"/>
-  &nbsp;&nbsp;
-  <img src="./assets/paldiblind_device.jpg" width="360"/>
-</p>
-
-* Designed a custom PCB integrating ESP32-S3, GNSS, UWB, and supporting hardware.
-* Developed embedded firmware for positioning and sensor integration.
-* Designed and assembled a 3D-printed enclosure for the prototype.
-
-<img src="https://img.shields.io/badge/ESP32--S3-26a69a?style=flat-square"/> <img src="https://img.shields.io/badge/GNSS-26a69a?style=flat-square"/> <img src="https://img.shields.io/badge/UWB-26a69a?style=flat-square"/> <img src="https://img.shields.io/badge/Embedded%20C%2FC++-26a69a?style=flat-square"/> <img src="https://img.shields.io/badge/PCB%20Design-26a69a?style=flat-square"/>
+</div>
 
 ---
 
-### Power System Analysis & Protection Coordination — ETAP & PowerWorld Simulator
+## 🛠️ Technical Capabilities
 
-Modeled and analyzed power distribution networks using industry-standard simulation tools, covering load-flow, fault analysis, and protection coordination.
-
-<p align="center">
-  <img src="./assets/powerworld_network.png" width="260"/>
-  &nbsp;&nbsp;
-  <img src="./assets/etap_network.png" width="260"/>
-  &nbsp;&nbsp;
-  <img src="./assets/tcc_coordination.png" width="260"/>
-</p>
-
-<p align="center"><sub>PowerWorld load-flow and voltage/MVA analysis · ETAP radial network with relay and fuse protection · TCC coordination curves for fault clearing</sub></p>
-
-* Modeled a radial distribution network in ETAP, analyzing voltage profiles, power losses, and fault-current levels under normal and fault conditions.
-* Performed load-flow, short-circuit, and transformer-loading studies in PowerWorld Simulator, assessing voltage stability and network losses.
-* Applied shunt capacitors for reactive power compensation and evaluated three-phase fault scenarios to support reliable system design.
-* Calculated CT ratios and relay settings, and developed primary/backup protection schemes using circuit breakers, fuses, and reclosers.
-* Built a TCC coordination study for a multi-fuse and relay protection scheme, verifying selectivity and operating-time margins between protection devices.
-
-<img src="https://img.shields.io/badge/ETAP-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/PowerWorld%20Simulator-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Load%20Flow%20Analysis-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Protection%20Coordination-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/TCC%20Curves-c62828?style=flat-square"/>
-
----
-
-### Custom ESP32-WROOM-32 Development Board
-
-Custom ESP32 development board designed from schematic capture through PCB layout and verification in EasyEDA.
-
-<p align="center">
-  <img src="./assets/esp32_3d.png" width="360"/>
-  &nbsp;&nbsp;
-  <img src="./assets/esp32_pcb_layers.png" width="360"/>
-</p>
-
-<p align="center"><sub>3D render (left) · silkscreen, plane, and routing layers (right)</sub></p>
-
-* Designed USB-C, USB-to-UART, and voltage-regulation circuitry.
-* Selected components and footprints using datasheets and reference designs.
-* Completed component placement, routing, copper planes, and DRC verification.
-
-<img src="https://img.shields.io/badge/EasyEDA-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/ESP32--WROOM--32-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/USB--C-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/USB--to--UART-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/PCB%20Layout-ef6c00?style=flat-square"/>
-
----
-
-### SRAM PUF Array Design
-
-Designed and verified a 4×4 SRAM-based Physical Unclonable Function, from system architecture down to transistor-level layout.
-
-<table>
-<tr>
-<td width="50%" align="center"><img src="./assets/sram_puf_schematic.png" width="100%"/></td>
-<td width="50%" align="center"><img src="./assets/sram_puf_simulation.png" width="100%"/></td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Hardware & IC Design</h4>
+      <img src="https://img.shields.io/badge/Synopsys%20Custom%20Compiler-5c6bc0?style=flat-square&logo=synopsys&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Electric%20VLSI-5c6bc0?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LTspice-5c6bc0?style=flat-square"/>
+      <img src="https://img.shields.io/badge/OrCAD%20PSpice-5c6bc0?style=flat-square"/>
+      <img src="https://img.shields.io/badge/CMOS%20%2F%20Analog%20IC-5c6bc0?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔌 Embedded Systems & PCB</h4>
+      <img src="https://img.shields.io/badge/ESP32--S3-26a69a?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%2FC++-26a69a?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-26a69a?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/KiCad-ef6c00?style=flat-square&logo=kicad&logoColor=white"/>
+      <img src="https://img.shields.io/badge/EasyEDA-ef6c00?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏭 Power & Grid Automation</h4>
+      <img src="https://img.shields.io/badge/ETAP-c62828?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PowerWorld-c62828?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Load%20Flow-c62828?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Protection%20Coordination-c62828?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LV%20Distribution-c62828?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Digital Systems & Software</h4>
+      <img src="https://img.shields.io/badge/Verilog%20HDL-3949ab?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Active--HDL-3949ab?style=flat-square"/>
+      <img src="https://img.shields.io/badge/KNX%20%2F%20ETS6-6d4c41?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MATLAB%2FSimulink-546e7a?style=flat-square&logo=mathworks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AutoCAD-546e7a?style=flat-square&logo=autodesk&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
-<p align="center"><sub>Array + comparator readout architecture (left) · SPICE simulation of a PUF output bit (right)</sub></p>
+---
 
-* Designed the array, decoder, and comparator-based readout architecture.
-* Developed the physical layout with symmetric transistor placement and VDD/GND routing.
-* Verified functionality through SPICE simulation and performed DRC/LVS checks.
-* Evaluated final circuit area and power consumption.
+## 🚀 Featured Engineering Projects
 
-<img src="https://img.shields.io/badge/CMOS-5c6bc0?style=flat-square"/> <img src="https://img.shields.io/badge/Electric%20VLSI-5c6bc0?style=flat-square"/> <img src="https://img.shields.io/badge/LTspice-5c6bc0?style=flat-square"/> <img src="https://img.shields.io/badge/DRC-5c6bc0?style=flat-square"/> <img src="https://img.shields.io/badge/LVS-5c6bc0?style=flat-square"/>
+### 👨‍🦯 PaldiBlind — Assistive Navigation Device
+> **Graduation Project:** Assistive device combining GNSS outdoor positioning and Ultra-Wideband (UWB) indoor localization for visually impaired individuals.
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/paldiblind_pcb.jpg" width="100%" style="border-radius:8px;" alt="PaldiBlind PCB"/>
+      <br/><sub>Custom Hardware PCB</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/paldiblind_device.jpg" width="100%" style="border-radius:8px;" alt="PaldiBlind Prototype Device"/>
+      <br/><sub>3D-Printed Prototype</sub>
+    </td>
+  </tr>
+</table>
+
+* Architected and fabricated a custom multi-layer PCB integrating an ESP32-S3 microcontroller, GNSS receiver, and UWB transceiver modules.
+* Programmed robust embedded firmware in C/C++ handling real-time sensor fusion, positioning logic, and feedback mechanisms.
+* Engineered a custom 3D-printed ergonomic enclosure for daily real-world usage.
+
+`ESP32-S3` · `GNSS` · `UWB` · `Embedded C/C++` · `PCB Design`
 
 ---
 
-### Melemco — Power Distribution & KNX Panels
+### ⚡ Power System Analysis & Protection Coordination
+> Complete modeling and protection design of radial distribution networks using ETAP and PowerWorld Simulator.
 
-Practical electrical engineering training involving low-voltage power distribution, electrical panels, and building automation systems.
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="./assets/powerworld_network.png" width="100%" style="border-radius:6px;" alt="PowerWorld Network"/>
+      <br/><sub>Load-Flow & Voltage Analysis</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="./assets/etap_network.png" width="100%" style="border-radius:6px;" alt="ETAP Network"/>
+      <br/><sub>ETAP Radial Network</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="./assets/tcc_coordination.png" width="100%" style="border-radius:6px;" alt="TCC Curves"/>
+      <br/><sub>TCC Protection Curves</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="./assets/melemco_panel_1.jpg" width="330"/>
-  &nbsp;&nbsp;
-  <img src="./assets/melemco_panel_2.jpg" width="330"/>
-</p>
+* Conducted load-flow, short-circuit, and transformer thermal loading studies in PowerWorld; integrated shunt capacitor banks for reactive power compensation.
+* Modeled radial distribution layouts in ETAP, assessing fault currents and line drop profiles during severe short-circuit events.
+* Calculated exact CT ratios and protection settings; built primary/backup coordination schemes featuring circuit breakers, reclosers, and fuses.
+* Constructed Time-Current Characteristic (TCC) curves to ensure full fault-clearing selectivity and adequate protection margins.
 
-* Performed load calculations and cable/breaker sizing.
-* Participated in assembly and wiring of a 400 A three-phase distribution board.
-* Worked with power and control wiring based on single-line diagrams.
-* Gained practical exposure to KNX systems and ETS6 configuration.
-
-<img src="https://img.shields.io/badge/Three--Phase%20Distribution-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Cable%20Sizing-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Protection-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/KNX-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/ETS6-c62828?style=flat-square"/>
-
----
-
-### uWave Semiconductor — Analog/Mixed-Signal IC Training
-
-Completed practical training in transistor-level analog and mixed-signal IC design.
-
-* Designed common-source and common-drain amplifier circuits.
-* Designed and analyzed differential amplifier stages.
-* Performed DC, transient, AC, and frequency-response simulations.
-* Evaluated transistor biasing, gain, and operating regions.
-
-<img src="https://img.shields.io/badge/Synopsys%20Custom%20Compiler-5c6bc0?style=flat-square"/> <img src="https://img.shields.io/badge/CMOS-5c6bc0?style=flat-square"/> <img src="https://img.shields.io/badge/Analog%20IC%20Design-5c6bc0?style=flat-square"/> <img src="https://img.shields.io/badge/Circuit%20Simulation-5c6bc0?style=flat-square"/>
+`ETAP` · `PowerWorld Simulator` · `Protection Coordination` · `TCC Curves` · `Load Flow`
 
 ---
 
-### Multiplier Design — RCA vs. CLA
+### 🎛️ Custom ESP32-WROOM-32 Development Board
+> Hardware design of a modular microcontroller development platform from initial schematics to finished PCB fabrication files.
 
-Designed a Verilog-based multiplier and compared Ripple Carry Adder and Carry Look-Ahead Adder architectures.
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/esp32_3d.png" width="100%" style="border-radius:8px;" alt="ESP32 Board 3D Render"/>
+      <br/><sub>3D Board Model</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/esp32_pcb_layers.png" width="100%" style="border-radius:8px;" alt="ESP32 PCB Routing Layers"/>
+      <br/><sub>Layout & Copper Routing Planes</sub>
+    </td>
+  </tr>
+</table>
 
-* Developed and simulated the digital architecture.
-* Created testbenches for functional verification.
-* Analyzed propagation delay and critical paths.
-* Compared RCA and CLA timing performance.
+* Designed power delivery network (PDN), USB-C connectivity, power management circuitry, and USB-to-UART bridging.
+* Analyzed component datasheets to construct footprint libraries, optimize thermal dissipation, and configure trace widths.
+* Completed manual routing, ground plane fills, design rule checks (DRC), and manufacturing verification.
 
-<img src="https://img.shields.io/badge/Verilog%20HDL-3949ab?style=flat-square"/> <img src="https://img.shields.io/badge/Active--HDL-3949ab?style=flat-square"/> <img src="https://img.shields.io/badge/Digital%20Design-3949ab?style=flat-square"/> <img src="https://img.shields.io/badge/Timing%20Analysis-3949ab?style=flat-square"/>
-
----
-
-### Microcomputer Architecture Design
-
-Designed and simulated a digital microcomputer architecture integrating processing, memory, and control units.
-
-* Developed digital logic blocks for processing and control.
-* Integrated memory and data-flow components.
-* Performed system-level simulation and functional validation.
-
-<img src="https://img.shields.io/badge/Computer%20Architecture-3949ab?style=flat-square"/> <img src="https://img.shields.io/badge/Digital%20Logic-3949ab?style=flat-square"/> <img src="https://img.shields.io/badge/Simulation-3949ab?style=flat-square"/>
-
----
-
-## Technical Skills
-
-**IC / VLSI**
-<br>
-<img src="https://img.shields.io/badge/Synopsys%20Custom%20Compiler-5c6bc0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Electric%20VLSI-5c6bc0?style=flat-square"/>
-<img src="https://img.shields.io/badge/LTspice-5c6bc0?style=flat-square"/>
-<img src="https://img.shields.io/badge/OrCAD%20PSpice-5c6bc0?style=flat-square"/>
-
-**Embedded Systems**
-<br>
-<img src="https://img.shields.io/badge/ESP32-26a69a?style=flat-square&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2FC++-26a69a?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino%20IDE-26a69a?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-26a69a?style=flat-square&logo=python&logoColor=white"/>
-
-**PCB Design**
-<br>
-<img src="https://img.shields.io/badge/EasyEDA-ef6c00?style=flat-square"/>
-<img src="https://img.shields.io/badge/KiCad-ef6c00?style=flat-square&logo=kicad&logoColor=white"/>
-<img src="https://img.shields.io/badge/Schematic%20Capture-ef6c00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Layout%20%26%20DRC-ef6c00?style=flat-square"/>
-
-**Digital Design**
-<br>
-<img src="https://img.shields.io/badge/Verilog%20HDL-3949ab?style=flat-square"/>
-<img src="https://img.shields.io/badge/Active--HDL-3949ab?style=flat-square"/>
-<img src="https://img.shields.io/badge/Quartus%20Prime-3949ab?style=flat-square"/>
-
-**Power Systems**
-<br>
-<img src="https://img.shields.io/badge/ETAP-c62828?style=flat-square"/>
-<img src="https://img.shields.io/badge/PowerWorld%20Simulator-c62828?style=flat-square"/>
-<img src="https://img.shields.io/badge/Load%20Flow%20Analysis-c62828?style=flat-square"/>
-<img src="https://img.shields.io/badge/Protection%20Coordination-c62828?style=flat-square"/>
-<img src="https://img.shields.io/badge/LV%20Distribution-c62828?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cable%20%26%20Breaker%20Sizing-c62828?style=flat-square"/>
-
-**Building Automation**
-<br>
-<img src="https://img.shields.io/badge/KNX-6d4c41?style=flat-square"/>
-<img src="https://img.shields.io/badge/ETS6-6d4c41?style=flat-square"/>
-
-**Engineering Software**
-<br>
-<img src="https://img.shields.io/badge/MATLAB%2FSimulink-546e7a?style=flat-square"/>
-<img src="https://img.shields.io/badge/AutoCAD-546e7a?style=flat-square&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Proteus-546e7a?style=flat-square"/>
+`EasyEDA` · `ESP32-WROOM-32` · `USB-C` · `Hardware Engineering` · `PCB Layout`
 
 ---
 
-## Current Interests
+### 🔒 SRAM PUF Array Transistor-Level Design
+> Transistor-level IC design and physical layout verification of a 4×4 SRAM-based Physical Unclonable Function (PUF).
 
-I am currently interested in graduate and junior engineering opportunities involving:
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/sram_puf_schematic.png" width="100%" style="border-radius:6px;" alt="SRAM PUF Architecture Schematic"/>
+      <br/><sub>Array & Readout Schematic</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/sram_puf_simulation.png" width="100%" style="border-radius:6px;" alt="SRAM PUF SPICE Simulation"/>
+      <br/><sub>SPICE Transient Response</sub>
+    </td>
+  </tr>
+</table>
 
-<img src="https://img.shields.io/badge/IC%20%2F%20VLSI%20Design-5c6bc0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Analog%20%26%20Mixed--Signal%20IC%20Design-5c6bc0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embedded%20Systems-26a69a?style=flat-square"/>
-<img src="https://img.shields.io/badge/PCB%20Design%20%26%20Hardware%20Dev-ef6c00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Electrical%20Power%20Distribution-c62828?style=flat-square"/>
-<img src="https://img.shields.io/badge/KNX%20%26%20Building%20Automation-6d4c41?style=flat-square"/>
+* Designed core memory cell arrays, address decoding logic, and high-precision differential comparator readout stages.
+* Layout executed with strict transistor symmetry to leverage manufacturing process mismatch for secure hardware key generation.
+* Validated cell stability via LTspice/SPICE simulations; achieved zero DRC and LVS layout errors.
+
+`CMOS` · `Electric VLSI` · `LTspice` · `DRC / LVS` · `IC Layout`
 
 ---
 
-### Contact
+### 🏢 Melemco — Power Distribution & Building Automation
+> Practical engineering experience in low-voltage panel assembly, breaker sizing, and smart building integration.
 
-📧 [karimbtaha6@gmail.com](mailto:karimbtaha6@gmail.com)
-📍 Ramallah, Palestine
-💻 [github.com/karimtaha007](https://github.com/karimtaha007)
-🔗 [LinkedIn](https://www.linkedin.com/in/kareem-taha-553362356/)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/melemco_panel_1.jpg" width="100%" style="border-radius:8px;" alt="Melemco Distribution Board 1"/>
+      <br/><sub>Main Distribution Panel Assembly</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/melemco_panel_2.jpg" width="100%" style="border-radius:8px;" alt="Melemco Distribution Board 2"/>
+      <br/><sub>Power & KNX Control Wiring</sub>
+    </td>
+  </tr>
+</table>
+
+* Calculated branch/main power loads, voltage drops, and busbar/cable requirements for commercial facilities.
+* Built and wired a 400 A three-phase power distribution panel strictly adhering to standard single-line diagrams (SLD).
+* Configured automated lighting and HVAC control networks using KNX devices and ETS6 programming software.
+
+`Three-Phase Power` · `LV Distribution` · `KNX Automation` · `ETS6` · `Cable Sizing`
+
+---
+
+### 🔬 Additional Engineering Highlights
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>📐 Analog IC Training</h4>
+      <b>uWave Semiconductor</b>
+      <p>Designed CS, CD, and differential amplifier stages in Synopsys Custom Compiler. Performed complete DC, AC, and frequency response sweeps.</p>
+      <img src="https://img.shields.io/badge/Synopsys-5c6bc0?style=flat-square"/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⏱️ High-Speed Multipliers</h4>
+      <b>Verilog HDL Benchmark</b>
+      <p>Modeled and verified Ripple Carry (RCA) vs Carry Look-Ahead (CLA) adders in digital multipliers, analyzing worst-case path propagation delays.</p>
+      <img src="https://img.shields.io/badge/Verilog-3949ab?style=flat-square"/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>💻 Microcomputer Design</h4>
+      <b>Computer Architecture</b>
+      <p>Designed a custom microcomputer architecture integrating ALU, register files, bus routing, and control sequence logic.</p>
+      <img src="https://img.shields.io/badge/Architecture-3949ab?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Career Focus & Opportunities
+
+I am actively seeking graduate and junior engineering roles across:
+* **Analog & Mixed-Signal IC Design / VLSI**
+* **Embedded Hardware Engineering & Firmware Development**
+* **PCB Design & System Integration**
+* **Electrical Power Systems & Low-Voltage Distribution**
+* **Building Automation & KNX Systems**
+
+---
+
+<div align="center">
+
+  📫 **Let's Connect!**
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-karimbtaha6%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:karimbtaha6@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Kareem%20Taha-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-taha-553362356/)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-karimtaha007-24292e?style=flat&logo=github&logoColor=white)](https://github.com/karimtaha007)
+
+  <sub>Designed with ⚡ by Kareem Taha · Ramallah, Palestine 🇵🇸</sub>
+
+</div>
