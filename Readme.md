@@ -6,11 +6,13 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Taha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-taha-553362356/)
   [![GitHub](https://img.shields.io/badge/GitHub-karimtaha007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimtaha007)
 
+  <p align="center">Electrical Engineering graduate with hands-on experience across IC design, embedded systems, PCB development, and power distribution.</p>
+
 </div>
 
-Electrical Engineering graduate with hands-on experience across IC design, embedded systems, PCB development, and power distribution.
-
 ---
+
+<div align="center">
 
 ## 🛠️ Technical Capabilities
 
@@ -18,70 +20,74 @@ Electrical Engineering graduate with hands-on experience across IC design, embed
 <tr>
 <td width="50%" valign="top" align="center">
 
-![Hardware & IC Design](https://img.shields.io/badge/⚡_Hardware_%26_IC_Design-5c6bc0?style=for-the-badge)
-
-**Synopsys Custom Compiler**<br/>
-**Electric VLSI**<br/>
-**LTspice**<br/>
-**OrCAD PSpice**<br/>
-**CMOS / Analog IC Design**
+<p align="center">
+<img src="https://img.shields.io/badge/⚡_Hardware_%26_IC_Design-5c6bc0?style=for-the-badge" alt="Hardware & IC Design"/><br/><br/>
+<b>Synopsys Custom Compiler</b><br/>
+<b>Electric VLSI</b><br/>
+<b>LTspice</b><br/>
+<b>OrCAD PSpice</b><br/>
+<b>CMOS / Analog IC Design</b>
+</p>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-![Embedded Systems & PCB](https://img.shields.io/badge/🔌_Embedded_Systems_%26_PCB-26a69a?style=for-the-badge)
-
-**ESP32-S3**<br/>
-**C / C++**<br/>
-**Arduino IDE**<br/>
-**KiCad**<br/>
-**EasyEDA**<br/>
-**Python**
+<p align="center">
+<img src="https://img.shields.io/badge/🔌_Embedded_Systems_%26_PCB-26a69a?style=for-the-badge" alt="Embedded Systems & PCB"/><br/><br/>
+<b>ESP32-S3</b><br/>
+<b>C / C++</b><br/>
+<b>Arduino IDE</b><br/>
+<b>KiCad</b><br/>
+<b>EasyEDA</b><br/>
+<b>Python</b>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 
-![Power & Grid Automation](https://img.shields.io/badge/🏭_Power_%26_Grid_Automation-c62828?style=for-the-badge)
-
-**ETAP**<br/>
-**PowerWorld Simulator**<br/>
-**Load Flow Analysis**<br/>
-**Protection Coordination**<br/>
-**LV Distribution**<br/>
-**KNX**<br/>
-**PLC (Siemens LOGO! / Delta)**<br/>
-**TIA Portal**
+<p align="center">
+<img src="https://img.shields.io/badge/🏭_Power_%26_Grid_Automation-c62828?style=for-the-badge" alt="Power & Grid Automation"/><br/><br/>
+<b>ETAP</b><br/>
+<b>PowerWorld Simulator</b><br/>
+<b>Load Flow Analysis</b><br/>
+<b>Protection Coordination</b><br/>
+<b>LV Distribution</b><br/>
+<b>KNX</b><br/>
+<b>PLC (Siemens LOGO! / Delta)</b><br/>
+<b>TIA Portal</b>
+</p>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-![Digital Systems & Software](https://img.shields.io/badge/💻_Digital_Systems_%26_Software-3949ab?style=for-the-badge)
-
-**Verilog HDL**<br/>
-**Active-HDL**<br/>
-**Quartus Prime**<br/>
-**ETS6**<br/>
-**MATLAB / Simulink**<br/>
-**AutoCAD**<br/>
-**Proteus**
+<p align="center">
+<img src="https://img.shields.io/badge/💻_Digital_Systems_%26_Software-3949ab?style=for-the-badge" alt="Digital Systems & Software"/><br/><br/>
+<b>Verilog HDL</b><br/>
+<b>Active-HDL</b><br/>
+<b>Quartus Prime</b><br/>
+<b>ETS6</b><br/>
+<b>MATLAB / Simulink</b><br/>
+<b>AutoCAD</b><br/>
+<b>Proteus</b>
+</p>
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🚀 Featured Engineering Projects
+---
 
 <div align="center">
 
+## 🚀 Featured Engineering Projects
+
 ### 👨‍🦯 PaldiBlind — Assistive Navigation Device
 
-</div>
-
-**Graduation Project:** Assistive device combining GNSS outdoor positioning and UWB indoor localization for visually impaired individuals.
+<p align="center"><b>Graduation Project:</b> Assistive device combining GNSS outdoor positioning and UWB indoor localization for visually impaired individuals.</p>
 
 <p align="center">
   <img src="./assets/paldiblind_pcb.jpg" width="300"/>
@@ -98,8 +104,6 @@ Electrical Engineering graduate with hands-on experience across IC design, embed
 
 </p>
 
-<div align="center">
-
 ![ESP32-S3](https://img.shields.io/badge/ESP32--S3-26a69a?style=flat-square) ![GNSS](https://img.shields.io/badge/GNSS-26a69a?style=flat-square) ![UWB](https://img.shields.io/badge/UWB-26a69a?style=flat-square) ![Embedded](https://img.shields.io/badge/Embedded%20C%2FC++-26a69a?style=flat-square) ![PCB](https://img.shields.io/badge/PCB%20Design-26a69a?style=flat-square)
 
 </div>
@@ -110,9 +114,7 @@ Electrical Engineering graduate with hands-on experience across IC design, embed
 
 ### ⚡ Power System Analysis & Protection Coordination
 
-</div>
-
-Complete modeling and protection design of radial distribution networks using ETAP and PowerWorld Simulator.
+<p align="center">Complete modeling and protection design of radial distribution networks using ETAP and PowerWorld Simulator.</p>
 
 <p align="center">
   <img src="./assets/powerworld_network.png" width="230"/>
@@ -132,8 +134,6 @@ Complete modeling and protection design of radial distribution networks using ET
 
 </p>
 
-<div align="center">
-
 ![ETAP](https://img.shields.io/badge/ETAP-c62828?style=flat-square) ![PowerWorld](https://img.shields.io/badge/PowerWorld%20Simulator-c62828?style=flat-square) ![Protection](https://img.shields.io/badge/Protection%20Coordination-c62828?style=flat-square) ![TCC](https://img.shields.io/badge/TCC%20Curves-c62828?style=flat-square) ![LoadFlow](https://img.shields.io/badge/Load%20Flow-c62828?style=flat-square)
 
 </div>
@@ -144,9 +144,7 @@ Complete modeling and protection design of radial distribution networks using ET
 
 ### 🎛️ Custom ESP32-WROOM-32 Development Board
 
-</div>
-
-Hardware design of a modular microcontroller development platform from schematic capture to finished PCB fabrication files.
+<p align="center">Hardware design of a modular microcontroller development platform from schematic capture to finished PCB fabrication files.</p>
 
 <p align="center">
   <img src="./assets/esp32_3d.png" width="300"/>
@@ -163,8 +161,6 @@ Hardware design of a modular microcontroller development platform from schematic
 
 </p>
 
-<div align="center">
-
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-ef6c00?style=flat-square) ![ESP32](https://img.shields.io/badge/ESP32--WROOM--32-ef6c00?style=flat-square) ![USBC](https://img.shields.io/badge/USB--C-ef6c00?style=flat-square) ![PCB](https://img.shields.io/badge/PCB%20Layout-ef6c00?style=flat-square)
 
 </div>
@@ -175,9 +171,7 @@ Hardware design of a modular microcontroller development platform from schematic
 
 ### 🔒 SRAM PUF Array — Transistor-Level Design
 
-</div>
-
-Transistor-level IC design and physical layout verification of a 4×4 SRAM-based Physical Unclonable Function.
+<p align="center">Transistor-level IC design and physical layout verification of a 4×4 SRAM-based Physical Unclonable Function.</p>
 
 <p align="center">
   <img src="./assets/sram_puf_schematic.png" width="300"/>
@@ -194,8 +188,6 @@ Transistor-level IC design and physical layout verification of a 4×4 SRAM-based
 
 </p>
 
-<div align="center">
-
 ![CMOS](https://img.shields.io/badge/CMOS-5c6bc0?style=flat-square) ![VLSI](https://img.shields.io/badge/Electric%20VLSI-5c6bc0?style=flat-square) ![LTspice](https://img.shields.io/badge/LTspice-5c6bc0?style=flat-square) ![DRC](https://img.shields.io/badge/DRC%20%2F%20LVS-5c6bc0?style=flat-square)
 
 </div>
@@ -206,9 +198,7 @@ Transistor-level IC design and physical layout verification of a 4×4 SRAM-based
 
 ### 🏢 Melemco — Power Distribution & Building Automation
 
-</div>
-
-Practical engineering experience in low-voltage panel assembly, breaker sizing, and smart building integration.
+<p align="center">Practical engineering experience in low-voltage panel assembly, breaker sizing, and smart building integration.</p>
 
 <p align="center">
   <img src="./assets/melemco_panel_1.jpg" width="300"/>
@@ -225,13 +215,13 @@ Practical engineering experience in low-voltage panel assembly, breaker sizing, 
 
 </p>
 
-<div align="center">
-
 ![ThreePhase](https://img.shields.io/badge/Three--Phase%20Power-c62828?style=flat-square) ![LV](https://img.shields.io/badge/LV%20Distribution-c62828?style=flat-square) ![KNX](https://img.shields.io/badge/KNX%20Automation-6d4c41?style=flat-square) ![ETS6](https://img.shields.io/badge/ETS6-6d4c41?style=flat-square)
 
 </div>
 
 ---
+
+<div align="center">
 
 ## 🔬 Additional Engineering Highlights
 
@@ -239,35 +229,39 @@ Practical engineering experience in low-voltage panel assembly, breaker sizing, 
 <tr>
 <td width="33%" valign="top" align="center">
 
-![Analog IC Training](https://img.shields.io/badge/📐_uWave_Semiconductor-5c6bc0?style=for-the-badge)
-
-Designed common-source, common-drain, and differential amplifier stages in Synopsys Custom Compiler. Performed DC, AC, and frequency-response simulations.
-
-![Synopsys](https://img.shields.io/badge/Synopsys-5c6bc0?style=flat-square)
-
-</td>
-<td width="33%" valign="top" align="center">
-
-![Multiplier Design](https://img.shields.io/badge/⏱️_RCA_vs_CLA_Multiplier-3949ab?style=for-the-badge)
-
-Modeled and verified Ripple Carry vs. Carry Look-Ahead adders in Verilog, analyzing worst-case propagation delay.
-
-![Verilog](https://img.shields.io/badge/Verilog-3949ab?style=flat-square)
+<p align="center">
+<img src="https://img.shields.io/badge/📐_uWave_Semiconductor-5c6bc0?style=for-the-badge" alt="Analog IC Training"/><br/><br/>
+Designed common-source, common-drain, and differential amplifier stages in Synopsys Custom Compiler. Performed DC, AC, and frequency-response simulations.<br/><br/>
+<img src="https://img.shields.io/badge/Synopsys-5c6bc0?style=flat-square" alt="Synopsys"/>
+</p>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-![Microcomputer Design](https://img.shields.io/badge/💻_Microcomputer_Architecture-3949ab?style=for-the-badge)
+<p align="center">
+<img src="https://img.shields.io/badge/⏱️_RCA_vs_CLA_Multiplier-3949ab?style=for-the-badge" alt="Multiplier Design"/><br/><br/>
+Modeled and verified Ripple Carry vs. Carry Look-Ahead adders in Verilog, analyzing worst-case propagation delay.<br/><br/>
+<img src="https://img.shields.io/badge/Verilog-3949ab?style=flat-square" alt="Verilog"/>
+</p>
 
-Designed a custom microcomputer architecture integrating ALU, register files, bus routing, and control logic.
+</td>
+<td width="33%" valign="top" align="center">
 
-![Architecture](https://img.shields.io/badge/Computer%20Architecture-3949ab?style=flat-square)
+<p align="center">
+<img src="https://img.shields.io/badge/💻_Microcomputer_Architecture-3949ab?style=for-the-badge" alt="Microcomputer Design"/><br/><br/>
+Designed a custom microcomputer architecture integrating ALU, register files, bus routing, and control logic.<br/><br/>
+<img src="https://img.shields.io/badge/Architecture-3949ab?style=flat-square" alt="Computer Architecture"/>
+</p>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🎯 Career Focus
 
@@ -282,8 +276,6 @@ Designed a custom microcomputer architecture integrating ALU, register files, bu
 </p>
 
 ---
-
-<div align="center">
 
 📫 **Let's Connect**
 
