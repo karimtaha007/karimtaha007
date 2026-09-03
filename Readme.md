@@ -41,61 +41,47 @@ Graduation project focused on developing an assistive navigation device for visu
 
 ---
 
-### Melemco — Power Distribution & KNX Panels
-
-Practical electrical engineering training involving low-voltage power distribution, electrical panels, and building automation systems.
-
-<p align="center">
-  <img src="./assets/melemco_panel_1.jpg" width="330"/>
-  &nbsp;&nbsp;
-  <img src="./assets/melemco_panel_2.jpg" width="330"/>
-</p>
-
-* Performed load calculations and cable/breaker sizing.
-* Participated in assembly and wiring of a 400 A three-phase distribution board.
-* Worked with power and control wiring based on single-line diagrams.
-* Gained practical exposure to KNX systems and ETS6 configuration.
-
-<img src="https://img.shields.io/badge/Three--Phase%20Distribution-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Cable%20Sizing-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Protection-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/KNX-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/ETS6-c62828?style=flat-square"/>
-
----
-
 ### Power System Analysis & Protection Coordination — ETAP & PowerWorld Simulator
 
-Modeled and analyzed power distribution networks using industry-standard simulation tools, covering load-flow, fault analysis, and protection design.
+Modeled and analyzed power distribution networks using industry-standard simulation tools, covering load-flow, fault analysis, and protection coordination.
 
 <p align="center">
-  <img src="./assets/powerworld_network.png" width="360"/>
+  <img src="./assets/powerworld_network.png" width="260"/>
   &nbsp;&nbsp;
-  <img src="./assets/etap_network.png" width="360"/>
+  <img src="./assets/etap_network.png" width="260"/>
+  &nbsp;&nbsp;
+  <img src="./assets/tcc_coordination.png" width="260"/>
 </p>
 
-<p align="center"><sub>PowerWorld load-flow and voltage/MVA analysis (left) · ETAP radial distribution network with relay and fuse protection (right)</sub></p>
+<p align="center"><sub>PowerWorld load-flow and voltage/MVA analysis · ETAP radial network with relay and fuse protection · TCC coordination curves for fault clearing</sub></p>
 
 * Modeled a radial distribution network in ETAP, analyzing voltage profiles, power losses, and fault-current levels under normal and fault conditions.
 * Performed load-flow, short-circuit, and transformer-loading studies in PowerWorld Simulator, assessing voltage stability and network losses.
 * Applied shunt capacitors for reactive power compensation and evaluated three-phase fault scenarios to support reliable system design.
 * Calculated CT ratios and relay settings, and developed primary/backup protection schemes using circuit breakers, fuses, and reclosers.
+* Built a TCC coordination study for a multi-fuse and relay protection scheme, verifying selectivity and operating-time margins between protection devices.
 
-<img src="https://img.shields.io/badge/ETAP-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/PowerWorld%20Simulator-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Load%20Flow%20Analysis-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Short--Circuit%20Analysis-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Voltage%20Stability-c62828?style=flat-square"/>
+<img src="https://img.shields.io/badge/ETAP-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/PowerWorld%20Simulator-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Load%20Flow%20Analysis-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Protection%20Coordination-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/TCC%20Curves-c62828?style=flat-square"/>
 
 ---
 
-### Protection Coordination — TCC Curve Analysis
+### Custom ESP32-WROOM-32 Development Board
 
-Developed a coordinated overcurrent protection scheme using time-current characteristic (TCC) curves for a radial network with fuses and a relay.
+Custom ESP32 development board designed from schematic capture through PCB layout and verification in EasyEDA.
 
 <p align="center">
-  <img src="./assets/tcc_coordination.png" width="480"/>
+  <img src="./assets/esp32_3d.png" width="360"/>
+  &nbsp;&nbsp;
+  <img src="./assets/esp32_pcb_layers.png" width="360"/>
 </p>
 
-<p align="center"><sub>Normalized TCC coordination plot for a 3-phase fault, showing fuse and relay operating margins</sub></p>
+<p align="center"><sub>3D render (left) · silkscreen, plane, and routing layers (right)</sub></p>
 
-* Built a TCC coordination study for a multi-fuse and relay protection scheme, verifying selectivity between upstream and downstream devices.
-* Calculated fault currents and operating times at each protection point to confirm correct coordination margins.
-* Interpreted fuse melting/clearing curves and relay time-dial settings to ensure fast, selective fault isolation.
+* Designed USB-C, USB-to-UART, and voltage-regulation circuitry.
+* Selected components and footprints using datasheets and reference designs.
+* Completed component placement, routing, copper planes, and DRC verification.
 
-<img src="https://img.shields.io/badge/Protection%20Coordination-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/TCC%20Curves-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Fuse%20%26%20Relay%20Sizing-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Fault%20Current%20Analysis-c62828?style=flat-square"/>
+<img src="https://img.shields.io/badge/EasyEDA-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/ESP32--WROOM--32-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/USB--C-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/USB--to--UART-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/PCB%20Layout-ef6c00?style=flat-square"/>
 
 ---
 
@@ -121,23 +107,22 @@ Designed and verified a 4×4 SRAM-based Physical Unclonable Function, from syste
 
 ---
 
-### Custom ESP32-WROOM-32 Development Board
+### Melemco — Power Distribution & KNX Panels
 
-Custom ESP32 development board designed from schematic capture through PCB layout and verification in EasyEDA.
+Practical electrical engineering training involving low-voltage power distribution, electrical panels, and building automation systems.
 
 <p align="center">
-  <img src="./assets/esp32_3d.png" width="360"/>
+  <img src="./assets/melemco_panel_1.jpg" width="330"/>
   &nbsp;&nbsp;
-  <img src="./assets/esp32_pcb_layers.png" width="360"/>
+  <img src="./assets/melemco_panel_2.jpg" width="330"/>
 </p>
 
-<p align="center"><sub>3D render (left) · silkscreen, plane, and routing layers (right)</sub></p>
+* Performed load calculations and cable/breaker sizing.
+* Participated in assembly and wiring of a 400 A three-phase distribution board.
+* Worked with power and control wiring based on single-line diagrams.
+* Gained practical exposure to KNX systems and ETS6 configuration.
 
-* Designed USB-C, USB-to-UART, and voltage-regulation circuitry.
-* Selected components and footprints using datasheets and reference designs.
-* Completed component placement, routing, copper planes, and DRC verification.
-
-<img src="https://img.shields.io/badge/EasyEDA-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/ESP32--WROOM--32-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/USB--C-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/USB--to--UART-ef6c00?style=flat-square"/> <img src="https://img.shields.io/badge/PCB%20Layout-ef6c00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Three--Phase%20Distribution-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Cable%20Sizing-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/Protection-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/KNX-c62828?style=flat-square"/> <img src="https://img.shields.io/badge/ETS6-c62828?style=flat-square"/>
 
 ---
 
@@ -248,3 +233,4 @@ I am currently interested in graduate and junior engineering opportunities invol
 📧 [karimbtaha6@gmail.com](mailto:karimbtaha6@gmail.com)
 📍 Ramallah, Palestine
 💻 [github.com/karimtaha007](https://github.com/karimtaha007)
+🔗 [LinkedIn](https://www.linkedin.com/in/kareem-taha-553362356/)
