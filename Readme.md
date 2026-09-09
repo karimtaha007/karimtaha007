@@ -10,7 +10,7 @@
 
   <br/>
 
-  [![View Certificates](https://img.shields.io/badge/📜_View_My_Certificates-1a1b27?style=for-the-badge&labelColor=1a1b27&color=5c6bc0)](./CERTIFICATES.md)
+  [<img src="./assets/certificates_button.svg" width="480" alt="View My Certificates"/>](./CERTIFICATES.md)
 
 </div>
 
@@ -293,9 +293,11 @@ Designed a custom microcomputer architecture integrating ALU, register files, bu
 
 ## 📜 Certificates
 
-<p align="center">KNX / ETS eCampus · Analog IC Design training at uWave Semiconductor · VLSI &amp; Python coursework</p>
+<p align="center">KNX / ETS eCampus &nbsp;·&nbsp; Analog IC Design training at uWave Semiconductor &nbsp;·&nbsp; VLSI &amp; Python coursework</p>
 
-[![Open Certificates](https://img.shields.io/badge/📂_Open_Certificates_Page-5c6bc0?style=for-the-badge&labelColor=1a1b27)](./CERTIFICATES.md)
+<br/>
+
+[<img src="./assets/certificates_button.svg" width="500" alt="View My Certificates"/>](./CERTIFICATES.md)
 
 </div>
 
