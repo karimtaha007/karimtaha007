@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/certificates_banner.svg" width="800" alt="Certificates — Kareem Taha"/>
+<img src="./assets/certbanner.svg" width="800" alt="Certificates — Kareem Taha"/>
 
 <br/><br/>
 
-[<img src="./assets/back_button.svg" width="260" alt="Back to Main Profile"/>](./README.md)
+[<img src="./assets/backbutton.svg" width="260" alt="Back to Main Profile"/>](./README.md)
 
 </div>
 
@@ -128,7 +128,7 @@
 
 <div align="center">
 
-[<img src="./assets/back_button.svg" width="260" alt="Back to Main Profile"/>](./README.md)
+[<img src="./assets/backbutton.svg" width="260" alt="Back to Main Profile"/>](./README.md)
 
 <br/><br/>
 
