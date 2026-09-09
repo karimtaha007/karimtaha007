@@ -2,9 +2,9 @@
 
   <img src="./assets/hero_banner.svg" width="700" alt="Kareem Taha"/>
 
-  [![Email](https://img.shields.io/badge/Email-karimbtaha6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karimbtaha6@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Taha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-taha-553362356/)
-  [![GitHub](https://img.shields.io/badge/GitHub-karimtaha007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimtaha007)
+  [![Email](https://img.shields.io/badge/Email-karimbtaha6%40gmail.com-6D4C41?style=for-the-badge&labelColor=4E3620&logo=gmail&logoColor=white)](mailto:karimbtaha6@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Taha-6D4C41?style=for-the-badge&labelColor=4E3620&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-taha-553362356/)
+  [![GitHub](https://img.shields.io/badge/GitHub-karimtaha007-6D4C41?style=for-the-badge&labelColor=4E3620&logo=github&logoColor=white)](https://github.com/karimtaha007)
 
   <p align="center">Electrical Engineering graduate with hands-on experience across IC design, embedded systems, PCB development, and power distribution.</p>
 
@@ -12,13 +12,17 @@
 
   [<img src="./assets/certificates_button.svg" width="480" alt="View My Certificates"/>](./CERTIFICATES.md)
 
-</div>
+  <br/>
 
----
+  <img src="./assets/divider.svg" width="900" alt=""/>
+
+</div>
 
 <div align="center">
 
-## 🧩 Languages &amp; Tools
+<img src="./assets/hdr_skills.svg" width="900" alt="Languages & Tools"/>
+
+<br/><br/>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,bash&perline=6" alt="Languages"/>
@@ -30,92 +34,33 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,autocad,vercel&perline=6" alt="Tools"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Engineering &amp; EDA Software
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/⚡_Hardware_%26_IC_Design-5c6bc0?style=for-the-badge" alt="Hardware &amp; IC Design"/>
-
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Synopsys_Custom_Compiler-5c6bc0?style=flat-square" alt="Synopsys"/>
-<img src="https://img.shields.io/badge/Electric_VLSI-5c6bc0?style=flat-square" alt="Electric VLSI"/>
-<img src="https://img.shields.io/badge/LTspice-5c6bc0?style=flat-square" alt="LTspice"/>
-<img src="https://img.shields.io/badge/OrCAD_PSpice-5c6bc0?style=flat-square" alt="OrCAD PSpice"/>
-<img src="https://img.shields.io/badge/CMOS_%2F_Analog_IC-5c6bc0?style=flat-square" alt="CMOS Analog IC"/>
-<img src="https://img.shields.io/badge/DRC_%2F_LVS-5c6bc0?style=flat-square" alt="DRC LVS"/>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/🔌_Embedded_Systems_%26_PCB-26a69a?style=for-the-badge" alt="Embedded Systems &amp; PCB"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ESP32--S3-26a69a?style=flat-square" alt="ESP32-S3"/>
-<img src="https://img.shields.io/badge/Arduino_IDE-26a69a?style=flat-square" alt="Arduino IDE"/>
-<img src="https://img.shields.io/badge/KiCad-26a69a?style=flat-square" alt="KiCad"/>
-<img src="https://img.shields.io/badge/EasyEDA-26a69a?style=flat-square" alt="EasyEDA"/>
-<img src="https://img.shields.io/badge/Altium_Designer-26a69a?style=flat-square" alt="Altium Designer"/>
-<img src="https://img.shields.io/badge/Proteus-26a69a?style=flat-square" alt="Proteus"/>
-<img src="https://img.shields.io/badge/3D_Printing-26a69a?style=flat-square" alt="3D Printing"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/🏭_Power_%26_Grid_Automation-c62828?style=for-the-badge" alt="Power &amp; Grid Automation"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ETAP-c62828?style=flat-square" alt="ETAP"/>
-<img src="https://img.shields.io/badge/PowerWorld_Simulator-c62828?style=flat-square" alt="PowerWorld Simulator"/>
-<img src="https://img.shields.io/badge/Load_Flow_Analysis-c62828?style=flat-square" alt="Load Flow Analysis"/>
-<img src="https://img.shields.io/badge/Protection_Coordination-c62828?style=flat-square" alt="Protection Coordination"/>
-<img src="https://img.shields.io/badge/LV_Distribution-c62828?style=flat-square" alt="LV Distribution"/>
-<img src="https://img.shields.io/badge/PLC_(LOGO!_%2F_Delta)-c62828?style=flat-square" alt="PLC"/>
-<img src="https://img.shields.io/badge/TIA_Portal-c62828?style=flat-square" alt="TIA Portal"/>
-<img src="https://img.shields.io/badge/KNX-6d4c41?style=flat-square" alt="KNX"/>
-<img src="https://img.shields.io/badge/ETS6-6d4c41?style=flat-square" alt="ETS6"/>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/💻_Digital_Systems_%26_Simulation-3949ab?style=for-the-badge" alt="Digital Systems &amp; Simulation"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Verilog_HDL-3949ab?style=flat-square" alt="Verilog HDL"/>
-<img src="https://img.shields.io/badge/FPGA-3949ab?style=flat-square" alt="FPGA"/>
-<img src="https://img.shields.io/badge/Quartus_Prime-3949ab?style=flat-square" alt="Quartus Prime"/>
-<img src="https://img.shields.io/badge/Active--HDL-3949ab?style=flat-square" alt="Active-HDL"/>
-<img src="https://img.shields.io/badge/MATLAB_%2F_Simulink-3949ab?style=flat-square" alt="MATLAB Simulink"/>
-<img src="https://img.shields.io/badge/Computer_Architecture-3949ab?style=flat-square" alt="Computer Architecture"/>
-
-</td>
-</tr>
-</table>
+<img src="./assets/divider.svg" width="900" alt=""/>
 
 </div>
 
----
+<div align="center">
+
+<img src="./assets/hdr_eda.svg" width="900" alt="Engineering & EDA Software"/>
+
+<br/><br/>
+
+<img src="./assets/eda_panel.svg" width="900" alt="Engineering and EDA software toolset"/>
+
+<br/><br/>
+
+<img src="./assets/divider.svg" width="900" alt=""/>
+
+</div>
 
 <div align="center">
 
-## 🚀 Featured Engineering Projects
+<img src="./assets/hdr_projects.svg" width="900" alt="Featured Engineering Projects"/>
 
-### 👨‍🦯 PaldiBlind — Assistive Navigation Device
+<br/><br/>
 
-<p align="center"><b>Graduation Project:</b> Assistive device combining GNSS outdoor positioning and UWB indoor localization for visually impaired individuals.</p>
+<img src="./assets/proj_paldiblind.svg" width="880" alt="PaldiBlind — Assistive Navigation Device"/>
 
 <p align="center">
   <img src="./assets/paldiblind_pcb.jpg" width="300"/>
@@ -132,17 +77,11 @@
 
 </p>
 
-![ESP32-S3](https://img.shields.io/badge/ESP32--S3-26a69a?style=flat-square) ![GNSS](https://img.shields.io/badge/GNSS-26a69a?style=flat-square) ![UWB](https://img.shields.io/badge/UWB-26a69a?style=flat-square) ![Embedded](https://img.shields.io/badge/Embedded%20C%2FC++-26a69a?style=flat-square) ![PCB](https://img.shields.io/badge/PCB%20Design-26a69a?style=flat-square)
+![ESP32-S3](https://img.shields.io/badge/ESP32--S3-8D6E4A?style=flat-square) ![GNSS](https://img.shields.io/badge/GNSS-8D6E4A?style=flat-square) ![UWB](https://img.shields.io/badge/UWB-8D6E4A?style=flat-square) ![Embedded](https://img.shields.io/badge/Embedded%20C%2FC++-8D6E4A?style=flat-square) ![PCB](https://img.shields.io/badge/PCB%20Design-8D6E4A?style=flat-square)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### ⚡ Power System Analysis &amp; Protection Coordination
-
-<p align="center">Complete modeling and protection design of radial distribution networks using ETAP and PowerWorld Simulator.</p>
+<img src="./assets/proj_power.svg" width="880" alt="Power System Analysis & Protection Coordination"/>
 
 <p align="center">
   <img src="./assets/powerworld_network.png" width="230"/>
@@ -162,17 +101,11 @@
 
 </p>
 
-![ETAP](https://img.shields.io/badge/ETAP-c62828?style=flat-square) ![PowerWorld](https://img.shields.io/badge/PowerWorld%20Simulator-c62828?style=flat-square) ![Protection](https://img.shields.io/badge/Protection%20Coordination-c62828?style=flat-square) ![TCC](https://img.shields.io/badge/TCC%20Curves-c62828?style=flat-square) ![LoadFlow](https://img.shields.io/badge/Load%20Flow-c62828?style=flat-square)
+![ETAP](https://img.shields.io/badge/ETAP-8D6E4A?style=flat-square) ![PowerWorld](https://img.shields.io/badge/PowerWorld%20Simulator-8D6E4A?style=flat-square) ![Protection](https://img.shields.io/badge/Protection%20Coordination-8D6E4A?style=flat-square) ![TCC](https://img.shields.io/badge/TCC%20Curves-8D6E4A?style=flat-square) ![LoadFlow](https://img.shields.io/badge/Load%20Flow-8D6E4A?style=flat-square)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### 🎛️ Custom ESP32-WROOM-32 Development Board
-
-<p align="center">Hardware design of a modular microcontroller development platform from schematic capture to finished PCB fabrication files.</p>
+<img src="./assets/proj_esp32.svg" width="880" alt="Custom ESP32-WROOM-32 Development Board"/>
 
 <p align="center">
   <img src="./assets/esp32_3d.png" width="300"/>
@@ -189,17 +122,11 @@
 
 </p>
 
-![EasyEDA](https://img.shields.io/badge/EasyEDA-ef6c00?style=flat-square) ![ESP32](https://img.shields.io/badge/ESP32--WROOM--32-ef6c00?style=flat-square) ![USBC](https://img.shields.io/badge/USB--C-ef6c00?style=flat-square) ![PCB](https://img.shields.io/badge/PCB%20Layout-ef6c00?style=flat-square)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-8D6E4A?style=flat-square) ![ESP32](https://img.shields.io/badge/ESP32--WROOM--32-8D6E4A?style=flat-square) ![USBC](https://img.shields.io/badge/USB--C-8D6E4A?style=flat-square) ![PCB](https://img.shields.io/badge/PCB%20Layout-8D6E4A?style=flat-square)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### 🔒 SRAM PUF Array — Transistor-Level Design
-
-<p align="center">Transistor-level IC design and physical layout verification of a 4×4 SRAM-based Physical Unclonable Function.</p>
+<img src="./assets/proj_sram.svg" width="880" alt="SRAM PUF Array — Transistor-Level Design"/>
 
 <p align="center">
   <img src="./assets/sram_puf_schematic.png" width="300"/>
@@ -216,17 +143,11 @@
 
 </p>
 
-![CMOS](https://img.shields.io/badge/CMOS-5c6bc0?style=flat-square) ![VLSI](https://img.shields.io/badge/Electric%20VLSI-5c6bc0?style=flat-square) ![LTspice](https://img.shields.io/badge/LTspice-5c6bc0?style=flat-square) ![DRC](https://img.shields.io/badge/DRC%20%2F%20LVS-5c6bc0?style=flat-square)
+![CMOS](https://img.shields.io/badge/CMOS-8D6E4A?style=flat-square) ![VLSI](https://img.shields.io/badge/Electric%20VLSI-8D6E4A?style=flat-square) ![LTspice](https://img.shields.io/badge/LTspice-8D6E4A?style=flat-square) ![DRC](https://img.shields.io/badge/DRC%20%2F%20LVS-8D6E4A?style=flat-square)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### 🏢 Melemco — Power Distribution &amp; Building Automation
-
-<p align="center">Practical engineering experience in low-voltage panel assembly, breaker sizing, and smart building integration.</p>
+<img src="./assets/proj_melemco.svg" width="880" alt="Melemco — Power Distribution & Building Automation"/>
 
 <p align="center">
   <img src="./assets/melemco_panel_1.jpg" width="300"/>
@@ -243,55 +164,63 @@
 
 </p>
 
-![ThreePhase](https://img.shields.io/badge/Three--Phase%20Power-c62828?style=flat-square) ![LV](https://img.shields.io/badge/LV%20Distribution-c62828?style=flat-square) ![KNX](https://img.shields.io/badge/KNX%20Automation-6d4c41?style=flat-square) ![ETS6](https://img.shields.io/badge/ETS6-6d4c41?style=flat-square)
+![ThreePhase](https://img.shields.io/badge/Three--Phase%20Power-8D6E4A?style=flat-square) ![LV](https://img.shields.io/badge/LV%20Distribution-8D6E4A?style=flat-square) ![KNX](https://img.shields.io/badge/KNX%20Automation-8D6E4A?style=flat-square) ![ETS6](https://img.shields.io/badge/ETS6-8D6E4A?style=flat-square)
+
+<br/>
+
+<img src="./assets/divider.svg" width="900" alt=""/>
 
 </div>
 
----
-
 <div align="center">
 
-## 🔬 Additional Engineering Highlights
+<img src="./assets/hdr_highlights.svg" width="900" alt="Additional Highlights"/>
+
+<br/>
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 
 <p align="center">
-<img src="https://img.shields.io/badge/📐_uWave_Semiconductor-5c6bc0?style=for-the-badge" alt="Analog IC Training"/><br/><br/>
+<img src="https://img.shields.io/badge/📐_uWave_Semiconductor-6D4C41?style=for-the-badge&labelColor=4E3620" alt="Analog IC Training"/><br/><br/>
 Designed common-source, common-drain, and differential amplifier stages in Synopsys Custom Compiler. Performed DC, AC, and frequency-response simulations.<br/><br/>
-<img src="https://img.shields.io/badge/Synopsys-5c6bc0?style=flat-square" alt="Synopsys"/>
+<img src="https://img.shields.io/badge/Synopsys-8D6E4A?style=flat-square" alt="Synopsys"/>
 </p>
 
 </td>
 <td width="33%" valign="top" align="center">
 
 <p align="center">
-<img src="https://img.shields.io/badge/⏱️_RCA_vs_CLA_Multiplier-3949ab?style=for-the-badge" alt="Multiplier Design"/><br/><br/>
+<img src="https://img.shields.io/badge/⏱️_RCA_vs_CLA_Multiplier-6D4C41?style=for-the-badge&labelColor=4E3620" alt="Multiplier Design"/><br/><br/>
 Modeled and verified Ripple Carry vs. Carry Look-Ahead adders in Verilog, analyzing worst-case propagation delay.<br/><br/>
-<img src="https://img.shields.io/badge/Verilog-3949ab?style=flat-square" alt="Verilog"/>
+<img src="https://img.shields.io/badge/Verilog-8D6E4A?style=flat-square" alt="Verilog"/>
 </p>
 
 </td>
 <td width="33%" valign="top" align="center">
 
 <p align="center">
-<img src="https://img.shields.io/badge/💻_Microcomputer_Architecture-3949ab?style=for-the-badge" alt="Microcomputer Design"/><br/><br/>
+<img src="https://img.shields.io/badge/💻_Microcomputer_Architecture-6D4C41?style=for-the-badge&labelColor=4E3620" alt="Microcomputer Design"/><br/><br/>
 Designed a custom microcomputer architecture integrating ALU, register files, bus routing, and control logic.<br/><br/>
-<img src="https://img.shields.io/badge/Architecture-3949ab?style=flat-square" alt="Computer Architecture"/>
+<img src="https://img.shields.io/badge/Architecture-8D6E4A?style=flat-square" alt="Computer Architecture"/>
 </p>
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
----
+<img src="./assets/divider.svg" width="900" alt=""/>
+
+</div>
 
 <div align="center">
 
-## 📜 Certificates
+<img src="./assets/hdr_certificates.svg" width="900" alt="Certificates"/>
+
+<br/><br/>
 
 <p align="center">KNX / ETS eCampus &nbsp;·&nbsp; Analog IC Design training at uWave Semiconductor &nbsp;·&nbsp; VLSI &amp; Python coursework</p>
 
@@ -299,31 +228,37 @@ Designed a custom microcomputer architecture integrating ALU, register files, bu
 
 [<img src="./assets/certificates_button.svg" width="500" alt="View My Certificates"/>](./CERTIFICATES.md)
 
-</div>
+<br/><br/>
 
----
+<img src="./assets/divider.svg" width="900" alt=""/>
+
+</div>
 
 <div align="center">
 
-## 🎯 Career Focus
+<img src="./assets/hdr_focus.svg" width="900" alt="Career Focus"/>
 
-<p align="center">
+<br/><br/>
 
-**Analog &amp; Mixed-Signal IC Design / VLSI**<br/>
-**Embedded Hardware Engineering &amp; Firmware Development**<br/>
-**PCB Design &amp; System Integration**<br/>
-**Electrical Power Systems &amp; Low-Voltage Distribution**<br/>
-**Building Automation &amp; KNX Systems**
+<img src="./assets/focus_panel.svg" width="820" alt="Career focus areas"/>
 
-</p>
+<br/><br/>
 
----
+<img src="./assets/divider.svg" width="900" alt=""/>
 
-## 📫 Let's Connect
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-karimbtaha6%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:karimbtaha6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Taha-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-taha-553362356/)
-[![GitHub](https://img.shields.io/badge/GitHub-karimtaha007-24292e?style=flat&logo=github&logoColor=white)](https://github.com/karimtaha007)
+<div align="center">
+
+<img src="./assets/hdr_connect.svg" width="900" alt="Let's Connect"/>
+
+<br/><br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-karimbtaha6%40gmail.com-6D4C41?style=for-the-badge&labelColor=4E3620&logo=gmail&logoColor=white)](mailto:karimbtaha6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Taha-6D4C41?style=for-the-badge&labelColor=4E3620&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-taha-553362356/)
+[![GitHub](https://img.shields.io/badge/GitHub-karimtaha007-6D4C41?style=for-the-badge&labelColor=4E3620&logo=github&logoColor=white)](https://github.com/karimtaha007)
+
+<br/>
 
 <sub>Ramallah, Palestine 🇵🇸</sub>
 
