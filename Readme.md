@@ -10,7 +10,7 @@
 
   <br/>
 
-  [<img src="./assets/certificates_button.svg" width="480" alt="View My Certificates"/>](./CERTIFICATES.md)
+  [<img src="./assets/certbutton.svg" width="480" alt="View My Certificates"/>](./CERTIFICATES.md)
 
   <br/>
 
@@ -20,19 +20,11 @@
 
 <div align="center">
 
-<img src="./assets/hdr_skills.svg" width="900" alt="Languages & Tools"/>
+<img src="./assets/hdrskills.svg" width="900" alt="Languages & Tools"/>
 
 <br/><br/>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,bash&perline=6" alt="Languages"/>
-</a>
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,autocad,vercel&perline=6" alt="Tools"/>
-</a>
+<img src="./assets/langpanel.svg" width="900" alt="Languages and tools"/>
 
 <br/><br/>
 
@@ -42,11 +34,11 @@
 
 <div align="center">
 
-<img src="./assets/hdr_eda.svg" width="900" alt="Engineering & EDA Software"/>
+<img src="./assets/hdreda.svg" width="900" alt="Engineering & EDA Software"/>
 
 <br/><br/>
 
-<img src="./assets/eda_panel.svg" width="900" alt="Engineering and EDA software toolset"/>
+<img src="./assets/edapanel.svg" width="900" alt="Engineering and EDA software toolset"/>
 
 <br/><br/>
 
@@ -56,11 +48,11 @@
 
 <div align="center">
 
-<img src="./assets/hdr_projects.svg" width="900" alt="Featured Engineering Projects"/>
+<img src="./assets/hdrprojects.svg" width="900" alt="Featured Engineering Projects"/>
 
 <br/><br/>
 
-<img src="./assets/proj_paldiblind.svg" width="880" alt="PaldiBlind — Assistive Navigation Device"/>
+<img src="./assets/projpaldiblind.svg" width="880" alt="PaldiBlind — Assistive Navigation Device"/>
 
 <p align="center">
   <img src="./assets/paldiblind_pcb.jpg" width="300"/>
@@ -81,7 +73,7 @@
 
 <br/>
 
-<img src="./assets/proj_power.svg" width="880" alt="Power System Analysis & Protection Coordination"/>
+<img src="./assets/projpower.svg" width="880" alt="Power System Analysis & Protection Coordination"/>
 
 <p align="center">
   <img src="./assets/powerworld_network.png" width="230"/>
@@ -105,7 +97,7 @@
 
 <br/>
 
-<img src="./assets/proj_esp32.svg" width="880" alt="Custom ESP32-WROOM-32 Development Board"/>
+<img src="./assets/projesp32.svg" width="880" alt="Custom ESP32-WROOM-32 Development Board"/>
 
 <p align="center">
   <img src="./assets/esp32_3d.png" width="300"/>
@@ -126,7 +118,7 @@
 
 <br/>
 
-<img src="./assets/proj_sram.svg" width="880" alt="SRAM PUF Array — Transistor-Level Design"/>
+<img src="./assets/projsram.svg" width="880" alt="SRAM PUF Array — Transistor-Level Design"/>
 
 <p align="center">
   <img src="./assets/sram_puf_schematic.png" width="300"/>
@@ -147,7 +139,7 @@
 
 <br/>
 
-<img src="./assets/proj_melemco.svg" width="880" alt="Melemco — Power Distribution & Building Automation"/>
+<img src="./assets/projmelemco.svg" width="880" alt="Melemco — Power Distribution & Building Automation"/>
 
 <p align="center">
   <img src="./assets/melemco_panel_1.jpg" width="300"/>
@@ -174,7 +166,7 @@
 
 <div align="center">
 
-<img src="./assets/hdr_highlights.svg" width="900" alt="Additional Highlights"/>
+<img src="./assets/hdrhighlights.svg" width="900" alt="Additional Highlights"/>
 
 <br/>
 
@@ -218,7 +210,7 @@ Designed a custom microcomputer architecture integrating ALU, register files, bu
 
 <div align="center">
 
-<img src="./assets/hdr_certificates.svg" width="900" alt="Certificates"/>
+<img src="./assets/hdrcerts.svg" width="900" alt="Certificates"/>
 
 <br/><br/>
 
@@ -226,7 +218,7 @@ Designed a custom microcomputer architecture integrating ALU, register files, bu
 
 <br/>
 
-[<img src="./assets/certificates_button.svg" width="500" alt="View My Certificates"/>](./CERTIFICATES.md)
+[<img src="./assets/certbutton.svg" width="500" alt="View My Certificates"/>](./CERTIFICATES.md)
 
 <br/><br/>
 
@@ -236,11 +228,11 @@ Designed a custom microcomputer architecture integrating ALU, register files, bu
 
 <div align="center">
 
-<img src="./assets/hdr_focus.svg" width="900" alt="Career Focus"/>
+<img src="./assets/hdrfocus.svg" width="900" alt="Career Focus"/>
 
 <br/><br/>
 
-<img src="./assets/focus_panel.svg" width="820" alt="Career focus areas"/>
+<img src="./assets/focuspanel.svg" width="820" alt="Career focus areas"/>
 
 <br/><br/>
 
@@ -250,7 +242,7 @@ Designed a custom microcomputer architecture integrating ALU, register files, bu
 
 <div align="center">
 
-<img src="./assets/hdr_connect.svg" width="900" alt="Let's Connect"/>
+<img src="./assets/hdrconnect.svg" width="900" alt="Let's Connect"/>
 
 <br/><br/>
 
